@@ -1,0 +1,10 @@
+.logo{
+    width: 80px;
+}
+.menu{
+    border-radius: 10px;
+    margin-right: 10px;
+}
+.menu a{
+    font-size: 18px;
+}
