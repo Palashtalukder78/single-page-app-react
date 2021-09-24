@@ -1,10 +1,12 @@
-.logo{
+body{
+    background-color: rgb(213, 226, 240);
+}
+.logo {
     width: 80px;
 }
-.menu{
-    border-radius: 10px;
-    margin-right: 10px;
+.nav-item{
+    margin-left: 20px;
 }
-.menu a{
-    font-size: 18px;
+.navbar{
+    background-color: blueviolet;
 }

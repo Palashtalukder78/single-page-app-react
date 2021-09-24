@@ -1,0 +1,8 @@
+.search-btn{
+    background-color: rgb(255, 255, 255);
+    padding: 15px;
+    border-radius: 30px;
+}
+.search-btn:focus{
+    border-radius: 0;
+}
